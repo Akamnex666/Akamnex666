@@ -132,7 +132,7 @@
 
 :musical_note: I'm currently listening:
 
-[![My Spotify](https://open.spotify.com/playlist/3EqBHzhZi5y1BAZHr7uFr4?si=e6eacc2b438d4b92)](https://github.com/regchiu/spotify-currently-playing-track)
+[![My Spotify](https://open.spotify.com/playlist/3EqBHzhZi5y1BAZHr7uFr4?si=e6eacc2b438d4b92)]
 
 <!---
 preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
