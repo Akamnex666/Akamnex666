@@ -1,7 +1,7 @@
 
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'> <img src='https://pa1.aminoapps.com/7267/f3a0862def424cabcb5cd80ca686600db488aa92r1-400-300_hq.gif' alt='Akamnex' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'> <img src='https://i.pinimg.com/originals/95/14/ef/9514effd4343ae1230e9d023c844a61a.gif' alt='Akamnex' width='200'></a>
 </h1>
 
 
