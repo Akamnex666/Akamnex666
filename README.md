@@ -4,7 +4,7 @@
   <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'> <img src='https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif' alt='Akamnex' width='200'></a>
 </h1>
 
-```
+
 			
 					 ▄▀▀█▄       ▄▀▀▄ █      ▄▀▀█▄       ▄▀▀▄ ▄▀▄      ▄▀▀▄ ▀▄      ▄▀▀█▄▄▄▄      ▄▀▀▄  ▄▀▄     
 					▐ ▄▀ ▀▄     █  █ ▄▀     ▐ ▄▀ ▀▄     █  █ ▀  █     █  █ █ █     ▐  ▄▀   ▐     █    █   █     
@@ -15,7 +15,7 @@
 					            ▐                       ▐    ▐        ▐             ▐             █    ▐        
 
 
-```
+
 
 ------
 
