@@ -47,7 +47,7 @@
 
 
 
-<img align="right" width="375" alt="GIF" src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif">
+<img align="center" width="200" alt="GIF" src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif">
 
   <!-- Welcome -->
   <!-- Typing Text -->
@@ -130,9 +130,6 @@
 
 <br><br>
 
-:musical_note: I'm currently listening:
-
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://open.spotify.com/playlist/3EqBHzhZi5y1BAZHr7uFr4?si=a38f9407ed884562)
 
 
 <!---
