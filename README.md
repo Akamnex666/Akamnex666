@@ -60,8 +60,8 @@
 
   <!-- Description -->
 ```diff
-@@Life's just an infinite loop-until
-you learn to break it.@@
++ Life's just an infinite loop-until
++ you learn to break it.
 ```
 
   <!-- Skills and Tools-->
