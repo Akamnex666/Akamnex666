@@ -63,7 +63,7 @@
 </p>
 
   <!-- Profile Picture -->
-<img align="left" height="150" src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif"/>
+<img align="left" height="150" src="https://i.gifer.com/Paz.gif"/>
 
   <!-- Description -->
 ```diff
