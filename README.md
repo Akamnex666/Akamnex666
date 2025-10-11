@@ -47,11 +47,11 @@
 
 
 
-<img align="center" width="200" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57c0ca5-c162-43e7-b0dc-40f215c30321/dk7cjv0-cd2d611e-a1bc-442e-aafb-68928e0f9e7c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lNTdjMGNhNS1jMTYyLTQzZTctYjBkYy00MGYyMTVjMzAzMjEvZGs3Y2p2MC1jZDJkNjExZS1hMWJjLTQ0MmUtYWFmYi02ODkyOGUwZjllN2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1mAfVvXX_UJqfl6KADp2YsfuF0Kpe-ZFDIXirsje4Zs">
+<img align="right" width="200" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57c0ca5-c162-43e7-b0dc-40f215c30321/dk7cjv0-cd2d611e-a1bc-442e-aafb-68928e0f9e7c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lNTdjMGNhNS1jMTYyLTQzZTctYjBkYy00MGYyMTVjMzAzMjEvZGs3Y2p2MC1jZDJkNjExZS1hMWJjLTQ0MmUtYWFmYi02ODkyOGUwZjllN2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1mAfVvXX_UJqfl6KADp2YsfuF0Kpe-ZFDIXirsje4Zs">
 
   <!-- Welcome -->
   <!-- Typing Text -->
-<p align="right">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=FFFFFF&background=000000&center=true&vCenter=true&width=490&lines=%3E+Walther.">
 </p>
 
