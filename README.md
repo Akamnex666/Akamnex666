@@ -60,7 +60,7 @@
 
   <!-- Description -->
 ```diff
-Walther es gei
+"Love is all we need, but I don't think I'm what your need."
 ```
 
   <!-- Skills and Tools-->
