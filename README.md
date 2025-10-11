@@ -59,10 +59,10 @@
 <img align="left" height="150" src="https://i.gifer.com/Paz.gif"/>
 
   <!-- Description -->
-@@```diff
-Life's just an infinite loop-until
-you learn to break it.
-```@@
+```diff
+@@Life's just an infinite loop-until
+you learn to break it.@@
+```
 
   <!-- Skills and Tools-->
 ---
