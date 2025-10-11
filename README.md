@@ -47,7 +47,7 @@
 
 
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+<img align="right" width="375" alt="GIF" src="https://i.pinimg.com/originals/94/b9/c6/94b9c64e1c5d912bcfd3db9c6f988b15.gif" />
 
   <!-- Welcome -->
   <!-- Typing Text -->
