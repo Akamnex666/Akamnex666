@@ -52,7 +52,7 @@
   <!-- Welcome -->
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=FFFFFF&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+bloom+in+chaos+,+not+in+calm.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=FFFFFF&background=000000&center=true&vCenter=true&width=490&lines=%3E+I+bloom+in+chaos+,+not+in+calm.">
 </p>
 
   <!-- Profile Picture -->
