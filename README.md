@@ -132,12 +132,10 @@
 
 :musical_note: I'm currently listening:
 
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
+[![My Spotify](https://open.spotify.com/playlist/3EqBHzhZi5y1BAZHr7uFr4?si=e6eacc2b438d4b92)](https://github.com/regchiu/spotify-currently-playing-track)
 
 <!---
 preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-message.txt
-9 KB
