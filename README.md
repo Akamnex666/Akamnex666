@@ -1,7 +1,7 @@
 
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='[https://i.pinimg.com/474x/31/47/33/31473329e8b5ff1b7c7e57bf9624342d.jpg](https://i.pinimg.com/474x/cd/9b/27/cd9b273d5cba31364c84d5dfd5fd13b4.jpg)' alt='Sogi' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.pinimg.com/474x/cd/9b/27/cd9b273d5cba31364c84d5dfd5fd13b4.jpg' alt='Akamnex' width='200'></a>
   <br>
   AKAMNEX
   <br>
