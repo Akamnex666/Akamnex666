@@ -60,12 +60,7 @@
 
   <!-- Description -->
 ```diff
-🛠️ +5 years of professional experience.
-+  ✔️ Responsible worker.
-#  👨‍💻 Information Technology Engineer (ITI).
--  🚀 Optimizing web pages.
-!  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
+Walther es gei
 ```
 
   <!-- Skills and Tools-->
