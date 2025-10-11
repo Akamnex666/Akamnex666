@@ -51,7 +51,7 @@
 
   <!-- Welcome -->
   <!-- Typing Text -->
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=FFFFFF&background=000000&center=true&vCenter=true&width=490&lines=%3E+Walther.">
 </p>
 
