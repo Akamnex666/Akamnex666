@@ -132,7 +132,8 @@
 
 :musical_note: I'm currently listening:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3EqBHzhZi5y1BAZHr7uFr4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://open.spotify.com/playlist/3EqBHzhZi5y1BAZHr7uFr4?si=a38f9407ed884562)
+
 
 <!---
 preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
