@@ -47,7 +47,7 @@
 
 
 
-<img align="right" width="375" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnZlOWZsaTAzMTZwazRmYXcwdXF1YzBnZjBxb3BxYzQ5aTBtczd6ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5Akl9i8YiMbl5RFvGO/source.gif" />
+<img align="right" width="375" alt="GIF" src="https://i.pinimg.com/originals/0f/58/60/0f5860ab2d063aaa92d55a994d9b47e4.gif" />
 
   <!-- Welcome -->
   <!-- Typing Text -->
