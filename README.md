@@ -60,7 +60,7 @@
 
   <!-- Description -->
 ```diff
-"Love is all we need, but I don't think I'm what your need."
+# Life's just an infinite loop-until you learn to break it.
 ```
 
   <!-- Skills and Tools-->
